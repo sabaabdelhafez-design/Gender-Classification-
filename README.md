@@ -1,8 +1,3 @@
-Your workflow is already strong, but for a GitHub project, portfolio, CV, or internship application, it can be presented in a more professional data science format by emphasizing the skills, methodology, and business value.
-
-### Enhanced Workflow
-
-```text
 Data Acquisition
     ↓
 Data Quality Assessment
