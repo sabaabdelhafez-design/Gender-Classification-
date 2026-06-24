@@ -1,3 +1,6 @@
+
+
+```text
 Data Acquisition
     ↓
 Data Quality Assessment
@@ -150,5 +153,8 @@ This project strengthened your ability to:
 * Create professional visualizations for data storytelling.
 * Translate mathematical concepts into practical business and healthcare insights.
 * Develop industry-relevant skills in Data Science, Analytics, and Artificial Intelligence.
+
+For a Data Analyst internship or graduate role, this project demonstrates skills typically expected from entry-level candidates in Data Analytics, Data Science, Business Intelligence, and Machine Learning.
+
 
 
